@@ -32,23 +32,15 @@
 
 
 ## 📚 Estou estudando:
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" /></code>
 
 
 
 ## GitHub Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AndersonToigo&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonToigo&layout=compact&theme=gruvbox&langs_count=6)](https://github.com/AndersonToigo/AndersonToigo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonToigo&layout=compact&theme=gruvbox&langs_count=6&count_private=true)](https://github.com/AndersonToigo/AndersonToigo)
 
 
   
 ## GitHub Trophies
 ![Github trophies](https://github-profile-trophy.vercel.app/?username=AndersonToigo&theme=dracula)
-
-
-  
-## Total Visitors
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AndersonToigo.AndersonToigo)
-
-![Snake animation](https://github.com/AndersonToigo/AndersonToigo/blob/output/github-contribution-grid-snake.svg)
