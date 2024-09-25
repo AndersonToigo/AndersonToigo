@@ -15,7 +15,7 @@
 </br>
 
 ## GitHub Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=AndersonToigo&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
+[//]: ![Github stats](https://github-readme-stats.vercel.app/api?username=AndersonToigo&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonToigo&layout=compact&theme=gruvbox&langs_count=6&count_private=true)](https://github.com/AndersonToigo/AndersonToigo)
 
 
