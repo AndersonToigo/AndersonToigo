@@ -4,7 +4,7 @@
 
 ### Meu nome é Anderson Toigo!
 - 🔭 Atualmente estou trabalhando na Mercafacil</br>
-- 🌱 Atualmente estou estudando Golang</br>
+- 🌱 Atualmente estou focado nas linguagens Python e Golang</br>
 - 📫 Como entrar em contato comigo: (49) 99137-7373 ou ande.toigo18@outlook.com</br>
 
 
