@@ -3,8 +3,7 @@
 <img src="https://c.tenor.com/f-nICqWLnrQAAAAC/programmer-cycle.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Gif Dev">
 
 ### Meu nome é Anderson Toigo!
-- 🔭 Atualmente estou trabalhando na Mercafacil</br>
-- 🌱 Atualmente estou focado nas linguagens Python e Golang</br>
+- 🌱 Atualmente estou focado nas linguagens Python, Golang e Node.js com Typescript</br>
 - 📫 Como entrar em contato comigo: (49) 99137-7373 ou ande.toigo18@outlook.com</br>
 
 
