@@ -6,7 +6,7 @@ Founder of [Toigo Tech](https://toigotech.com) — creator of [THealth](https://
 ### Stack
 - **Backend:** NestJS, TypeScript, Django/Python, Go
 - **FrontEnd:** NextJS, React
-- **Mobile:** Flutter
+- **Mobile:** Flutter, React Native
 - **Focus:** APIs, integrations, performance, product engineering
 
 ### Links
